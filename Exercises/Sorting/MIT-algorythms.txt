@@ -1,0 +1,2 @@
+Divide and councker -> it's when you split the array into 2, and check on which side the value is bigger. O(log2n)
+Greedy ascent -> O(n*m)?
